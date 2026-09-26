@@ -247,18 +247,13 @@ Copyright (C) 2026 alicewe1 — Licensed under GNU GPL v3.0 or later
 
 ## Support the project
 
-Routing design, module authoring, and every round of on-device verification here are done by one person. If this saved you some detours, or you just want to see it keep going, feel free to use the code below.
+If this project has been helpful to you, you can scan the QR code below with WeChat to donate.
 
 <div align="center">
 
 <img src="images/sponsor-qr.jpg" alt="Sponsor QR" width="240">
 
-**Buy me a coffee**
-
 </div>
-
-No obligation at all — filing issues, reporting problems, or sharing the project with someone who needs it counts just as much.
-
 ---
 
 <div align="center">
