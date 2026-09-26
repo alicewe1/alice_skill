@@ -242,6 +242,21 @@ Copyright (C) 2026 alicewe1 — Licensed under GNU GPL v3.0 or later
 
 ---
 
+## 感谢捐赠
+
+这套技能库从路由设计、模块编写到每一轮真机校验，都是一个人在做。如果它帮你少走了弯路，或者你希望它继续更新下去，可以扫下面的码支持一下。
+
+<div align="center">
+
+<img src="images/sponsor-qr.jpg" alt="赞赏码" width="240">
+
+**扫码请我喝杯咖啡**
+
+</div>
+
+不留也没关系 —— 提 issue、反馈问题、把项目分享给用得上的人，同样是很有价值的支持。
+---
+
 <div align="center">
 
 [English](README.en.md) · **简体中文**
