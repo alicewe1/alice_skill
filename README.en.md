@@ -258,6 +258,7 @@ Routing design, module authoring, and every round of on-device verification here
 </div>
 
 No obligation at all — filing issues, reporting problems, or sharing the project with someone who needs it counts just as much.
+
 ---
 
 <div align="center">
