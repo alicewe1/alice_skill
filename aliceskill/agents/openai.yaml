@@ -1,4 +1,0 @@
-interface:
-  display_name: "王炸·比赛技能总菜单"
-  short_description: "输入「王炸」展示红蓝方比赛全部技能菜单并按选择路由"
-  default_prompt: "王炸"
